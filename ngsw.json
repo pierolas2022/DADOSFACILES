@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666314648702,
+  "timestamp": 1666315748722,
   "index": "https://pierolas2022.github.io/DADOSFACILES/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://pierolas2022.github.io/DADOSFACILES/favicon.ico",
         "https://pierolas2022.github.io/DADOSFACILES/index.html",
-        "https://pierolas2022.github.io/DADOSFACILES/main.f291c6be35ff83e2.js",
+        "https://pierolas2022.github.io/DADOSFACILES/main.4c907af426e57972.js",
         "https://pierolas2022.github.io/DADOSFACILES/manifest.webmanifest",
         "https://pierolas2022.github.io/DADOSFACILES/polyfills.d2f22625d2292ed5.js",
         "https://pierolas2022.github.io/DADOSFACILES/runtime.be33f5fed21a022e.js",
@@ -37,12 +37,12 @@
         "https://pierolas2022.github.io/DADOSFACILES/assets/icons/icon-512x512.png",
         "https://pierolas2022.github.io/DADOSFACILES/assets/icons/icon-72x72.png",
         "https://pierolas2022.github.io/DADOSFACILES/assets/icons/icon-96x96.png",
-        "https://pierolas2022.github.io/DADOSFACILES/assets/img/1.jpg",
-        "https://pierolas2022.github.io/DADOSFACILES/assets/img/2.jpg",
-        "https://pierolas2022.github.io/DADOSFACILES/assets/img/3.jpg",
-        "https://pierolas2022.github.io/DADOSFACILES/assets/img/4.jpg",
-        "https://pierolas2022.github.io/DADOSFACILES/assets/img/5.jpg",
-        "https://pierolas2022.github.io/DADOSFACILES/assets/img/6.jpg"
+        "https://pierolas2022.github.io/DADOSFACILES/assets/img/1.png",
+        "https://pierolas2022.github.io/DADOSFACILES/assets/img/2.png",
+        "https://pierolas2022.github.io/DADOSFACILES/assets/img/3.png",
+        "https://pierolas2022.github.io/DADOSFACILES/assets/img/4.png",
+        "https://pierolas2022.github.io/DADOSFACILES/assets/img/5.png",
+        "https://pierolas2022.github.io/DADOSFACILES/assets/img/6.png"
       ],
       "patterns": []
     }
@@ -57,15 +57,15 @@
     "https://pierolas2022.github.io/DADOSFACILES/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://pierolas2022.github.io/DADOSFACILES/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://pierolas2022.github.io/DADOSFACILES/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://pierolas2022.github.io/DADOSFACILES/assets/img/1.jpg": "da8ef7ccade6adc68743d417ad3fde442773f579",
-    "https://pierolas2022.github.io/DADOSFACILES/assets/img/2.jpg": "58d0ee642065356830f0060385f1a1955c52bb21",
-    "https://pierolas2022.github.io/DADOSFACILES/assets/img/3.jpg": "06d5b56f2fbcbe5995e7e23c1c5f7807e4b929fc",
-    "https://pierolas2022.github.io/DADOSFACILES/assets/img/4.jpg": "7d4868b178bacc8bb48c7cdbeac6b3cd46b5c79f",
-    "https://pierolas2022.github.io/DADOSFACILES/assets/img/5.jpg": "020fbb64c309ec621f2294705f79214b9de4e1cc",
-    "https://pierolas2022.github.io/DADOSFACILES/assets/img/6.jpg": "16a1c66fcc5b39ddd9f24f579b628cc87d37831a",
+    "https://pierolas2022.github.io/DADOSFACILES/assets/img/1.png": "d3524679e458a631ff9a2b371b4078570aa026df",
+    "https://pierolas2022.github.io/DADOSFACILES/assets/img/2.png": "e3c1fbbd04e5e6275db1ba4165127a4c81d75270",
+    "https://pierolas2022.github.io/DADOSFACILES/assets/img/3.png": "a2f1cc56474e043b162a9e7ae3511182bd6895e0",
+    "https://pierolas2022.github.io/DADOSFACILES/assets/img/4.png": "12dd6a1125cef95bfa29a265e5e6f0aa63ec8233",
+    "https://pierolas2022.github.io/DADOSFACILES/assets/img/5.png": "d49db0bb67e0be96b7df9983cecff0c343ee824d",
+    "https://pierolas2022.github.io/DADOSFACILES/assets/img/6.png": "318dc1c483a8a89f9a68e7c49b5707143bda4bd1",
     "https://pierolas2022.github.io/DADOSFACILES/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://pierolas2022.github.io/DADOSFACILES/index.html": "ca796f44639775b10aa901e433cea36131423b8f",
-    "https://pierolas2022.github.io/DADOSFACILES/main.f291c6be35ff83e2.js": "3068b95b7d46ffb3608f985f5f1ba186143d54ba",
+    "https://pierolas2022.github.io/DADOSFACILES/index.html": "8ecec254bc6d1cc43d728df2ac6dcc7a8d3fa8b8",
+    "https://pierolas2022.github.io/DADOSFACILES/main.4c907af426e57972.js": "ccf4a681b201aa7d931e3d8f4b47030316e1a1f5",
     "https://pierolas2022.github.io/DADOSFACILES/manifest.webmanifest": "308acc495ada0ef0d614d7f3fbc918e3d458f3a1",
     "https://pierolas2022.github.io/DADOSFACILES/polyfills.d2f22625d2292ed5.js": "bca20128e50c18b102bcf3d6b822e60e048451a4",
     "https://pierolas2022.github.io/DADOSFACILES/runtime.be33f5fed21a022e.js": "f8b3c1b6c7bd41b84f19c2fea8cc7cc92e20430c",
